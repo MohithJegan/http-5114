@@ -35,7 +35,7 @@ This is a link to [My Portfolio](https://github.com/MohithJegan)
 
 This is an image:
 
-![Planet Image](planet.jpg)
+![Planet Image](./images/planet.jpg)
 
 ## Code
 
