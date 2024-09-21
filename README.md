@@ -23,8 +23,8 @@ This repository contains files, folders, and exercises related to the subject of
 ```
 
 ## Images
-##### GitHub
+#### GitHub
 ![Github](./images/github.jpg)
 
-##### MarkDown
+#### MarkDown
 ![Markdown](./images/markdown.jpg)
