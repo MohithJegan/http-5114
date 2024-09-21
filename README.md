@@ -22,7 +22,7 @@ This repository contains files, folders, and exercises related to the subject of
 ## Heading
 ```
 
-## Image
+## Images
 ##### GitHub
 ![Github](./images/github.jpg)
 
