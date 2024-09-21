@@ -1,4 +1,4 @@
-# Workshops in Web Development
+# Workshops in Web Development - 1
 
 ## Subject Code
 
@@ -6,19 +6,19 @@ HTTP-5114-0NA
 
 ## Description
 
-This repository contains files, folders, and exercises related to the subject of **Workshops in Web Development**, featuring content on Markdown and GitHub.
+This repository contains files, folders, and exercises related to the subject of **Workshops in Web Development - 1**, featuring content on Markdown and GitHub.
 
 ## Tools
 
 - [MarkDown](https://www.markdownguide.org/)
 - [Github](https://github.com/)
 
-> Github and Markdown realted contents are shown up here.
+> GitHub and Markdown realted contents are shown up here.
 
 ## Sample Code
 
 ```MARKDOWN
-[comment]:<> (This prints "Heading" in bold)
+[comment]:<> (This displays "Heading" in bold in a GitHub README.md file)
 ## Heading
 ```
 
