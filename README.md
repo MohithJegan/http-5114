@@ -18,7 +18,7 @@ This repository contains files, folders, and exercises related to the subject of
 ## Sample Code
 
 ```MARKDOWN
-[comment]:<> (This prints "Heading" in bold)
+[comment]: <> (This is a comment, it will not be included)
 ## Heading
 ```
 
