@@ -6,24 +6,24 @@ HTTP-5114-0NA
 
 ## Description
 
-This repository contains files, folders, and exercises related to the subject of **Workshops in Web Development - 1**, featuring content on Markdown and GitHub.
+This repository contains files, folders, and exercises related to the subject of **Workshops in Web Development - 1**, featuring content on Markdown and Github.
 
 ## Tools
 
-- [MarkDown](https://www.markdownguide.org/)
+- [Markdown](https://www.markdownguide.org/)
 - [Github](https://github.com/)
 
-> GitHub and Markdown realted contents are shown up here.
+> Github and Markdown realted contents are shown up here.
 
 ## Sample Code
 
 ```MARKDOWN
 <!-- This displays "Heading" in bold in a GitHub README.md file -->
-## Heading
+# Heading
 ```
 
 ## Images
-#### GitHub
+#### Github
 ![Github](./images/github.jpg)
 
 #### MarkDown
