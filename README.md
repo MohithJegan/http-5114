@@ -18,7 +18,7 @@ This repository contains files, folders, and exercises related to the subject of
 ## Sample Code
 
 ```MARKDOWN
-[comment]:<> (This displays "Heading" in bold in a GitHub README.md file)
+<!-- This displays "Heading" in bold in a GitHub README.md file -->
 ## Heading
 ```
 
